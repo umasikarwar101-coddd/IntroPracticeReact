@@ -1,0 +1,27 @@
+.user-container{
+    background-color:rgb(195, 117, 15);
+    padding:2px;
+    width:260px;
+    display:flex;
+flex-direction:column;
+justify-content: center;
+align-items:center;
+text-align:center
+    
+}
+
+#user-image{
+    height:140px;
+    width:140px;
+    object-fit:cover;
+    border-radius:8px;
+    
+}
+
+#user-name{
+    font-size:30px;
+}
+
+#user-des{
+    font-size:30px;
+}
